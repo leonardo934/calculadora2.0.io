@@ -1,0 +1,45 @@
+.espaco1 {
+    flex: 1;
+
+}
+
+.espaco2{
+    flex: 1;
+}
+#catoda {
+    height: 100vh !important;
+    max-height: 100vh;
+    display: flex;
+    flex-direction:row;
+}
+
+.centro{
+    display: flex;
+    flex-direction: column;
+    width: 499px;
+    }
+.calculo{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    margin-bottom: 30px;
+    }
+.sumir{
+    display: none;
+}
+.aparecer{
+    display: flex;
+}
+#calculadora {
+    border: black 2px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 499px;
+    
+}
+#bts{
+
+    
+}
